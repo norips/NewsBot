@@ -1,5 +1,4 @@
 facebook-sdk==2.0.0
-pkg-resources==0.0.0
 python-dateutil==2.6.0
 requests==2.12.5
 six==1.10.0
